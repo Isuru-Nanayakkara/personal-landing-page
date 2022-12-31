@@ -1,0 +1,23 @@
+{
+  "name": "personal-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isuru-Nanayakkara/personal-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isuru-Nanayakkara/personal-landing-page/issues"
+  },
+  "homepage": "https://github.com/Isuru-Nanayakkara/personal-landing-page#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
